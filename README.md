@@ -1,11 +1,7 @@
-# Polyurgous
-❓Script About
-Polyurgous Has Weird Features But its Fun And Friendly Multiple Support For Roblox Platform 
+# About Polyurgous
+❓Polyurgous Has Weird Features But its Fun And Friendly Multiple Support For Roblox Platform 
 
 
-🚀Game Supported [ Dahood • Envade • 00FRake ]
+🚀Game Supported ( Dahood, Envade, 00FRake )
 
-📝Script Feature
-• AntiBan 
-• AutoExecutions 
-• IngamePerformance
+📝Script Feature (AntiBan,  AutoExecutions,  IngamePerformance )
