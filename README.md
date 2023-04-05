@@ -4,4 +4,4 @@
 
 🚀Game Supported ( Dahood, Envade, 00FRake )
 
-📝Script Feature (AntiBan,  AutoExecutions,  IngamePerformance )
+📝Script Feature (AntiBan,  AutoExecutions )
