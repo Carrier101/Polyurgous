@@ -15,10 +15,4 @@
 </p>
 
 <h3 align="left">Game Supported:</h3>
-<p align="left"> <a href="https://www.roblox.com/games/8304191830/UPD-12-Anime-Adventures"
-                    target="_blank" rel="noreferrer"> 
-  <img src="https://thenerdstash.com/wp-content/uploads/2022/10/roblox-da-hood-codes-october-2022.jpg" 
-       
-       alt="python"
-       width="40" 
-       height="40"/> </a> </p>
+<p align="left"> <a href="https://www.roblox.com/games/8304191830/UPD-12-Anime-Adventures"target="_blank" rel="noreferrer"> <img src="https://thenerdstash.com/wp-content/uploads/2022/10/roblox-da-hood-codes-october-2022.jpg" alt="python"width="40" height="40"/> </a> </p>
