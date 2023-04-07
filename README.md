@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to Polyurgous</h1>
-<h3 align="center">Free Roblox Script Hub designed and have fun for Exploiters. Co By ♡› rou#7971</h3>
+<h3 align="center">a Free Roblox Script Hub designed for fun and to our Exp Community, Co By ♡› rou#7971</h3>
 
 - 🔭 I’m currently working on **Other GamePlatform**
 
