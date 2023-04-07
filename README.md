@@ -1,14 +1,19 @@
-# About Polyurgous
-❓It Has Weird Features But its Fun And Friendly Multiple Support For Roblox Platform 
+Free Roblox Script Hub designed and have fun for Exploiters.
+Co By ♡› rou#7971
+
+Its in beta Stage, so expect some bugs.
+And other Features only work on Synapse X, Because I Mainly Use It
+
 
 
 🚀Game Support
--Dahood
--00FRake
+[Dahood](https://discohook.app/discord)
+[support server](https://discohook.app/discord)
+
 
 
 📝Script Features 
--AntiBan
+#AntiBan
 -AntiModule
 -AntiLog
 -Antihttps
