@@ -12,34 +12,38 @@
 <h5 align="left">› Our Discord Server Feel Free to Join </h5>
 <p align="left"> <a href="https://www.roblox.com/games/8304191830/UPD-12-Anime-Adventures"target="_blank" rel="noreferrer"> <img src="https://i.redd.it/xj5t9wl6fs721.png" alt="python"width="40" height="40"/> </a> </p>
 
-# Script
+### Loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous/main/Hub"))();
 ```
 
-# 
 
-# Game Supported
-- [Vc/Dahood](#markdown-badges)
-   <details> <summary>List of Features</summary>
+
+### Game Supported
+- [Dahood](https://www.roblox.com/games/2788229376/)
+  - <details> <summary>List of badges</summary>
      - Artificial Intelligence and Bots
      - workjobs
    </details>
-- [NaturalDisaster](#table-of-contents)
-   <details> <summary>List of Features</summary>
+- [NaturalDisaster](https://www.roblox.com/games/189707/)
+  - <details> <summary>List of badges</summary>
      - Artificial Intelligence and Bots
      - workjobs
    </details>
-- [RakOOF](#usage)
-   <details> <summary>List of Features</summary>
+- [RakOOF](https://www.roblox.com/games/6053107323/)
+  - <details> <summary>List of badges</summary>
      - Artificial Intelligence and Bots
      - workjobs
    </details>
-- [Break In](#tips)
-- [FieldTripZ](#contribution)
-- [Tapping Simulator](#badges)
-- [Strongest Punch Simulator](#license)
-- [Tower of Hell](#badges)
+- [Break In](https://www.roblox.com/games/4620170611/)
+- 
+- [FieldTripZ](https://www.roblox.com/games/5096191125/)
+- 
+- [Tapping Simulator](https://www.roblox.com/games/2788229376/)
+- 
+- [Strongest Punch Simulator](https://www.roblox.com/games/6875469709/)
+- 
+- [Tower of Hell](https://www.roblox.com/games/6875469709/)
 
   - <details> <summary>List of badges</summary>
      - [Artificial Intelligence and Bots](#-artificial-intelligence-and-bots)
