@@ -1,20 +1,15 @@
-Free Roblox Script Hub designed and have fun for Exploiters.
-Co By ♡› rou#7971
+<h1 align="center">Welcome to Polyurgous</h1>
+<h3 align="center">Free Roblox Script Hub designed and have fun for Exploiters. Co By ♡› rou#7971</h3>
 
-Its in beta Stage, so expect some bugs.
-And other Features only work on Synapse X, Because I Mainly Use It
+- 🔭 I’m currently working on **Other GamePlatform**
 
+- I’m currently learning **a Bypasser**
 
+- ⚡ Fun fact **I Dont know what Sleep Means**
 
-🚀Game Support
-[Dahood](https://discohook.app/discord)
-[support server](https://discohook.app/discord)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-
-
-📝Script Features 
-#AntiBan
--AntiModule
--AntiLog
--Antihttps
--AutoExecutions 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
