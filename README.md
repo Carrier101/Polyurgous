@@ -29,9 +29,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous
 
 ### Script Hub Functions
 
-- [Dahood/Vc](https://www.roblox.com/games/2788229376/)
+ - [Dahood/Vc](https://www.roblox.com/games/2788229376/)
 
-  - <details> <summary>All Features</summary>
+   - <details> <summary>All Features</summary>
 
       - <details> <summary>Mainpage</summary>
   
@@ -115,8 +115,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous
          </details>
         </details>
       </details>
-</details>
+ </details>
 
+ 
 - [NaturalDisaster](https://www.roblox.com/games/189707/)
 
   - <details> <summary>Features</summary>
