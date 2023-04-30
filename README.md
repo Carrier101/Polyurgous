@@ -1,10 +1,10 @@
 <h1 align="left">Welcome to Polyurgous Hub</h1>
-<h4 align="left">› A Free Roblox Script Hub Designed for Fun to Our Exploit Community, </h4>
+<h4 align="left"> A Free Roblox Script Hub Designed for Fun to Our Exploit Community, </h4>
  <h6 align="left">› Co By rou#7971  </h6>
 <h6 align="left">› This Script is Still in BETA Stage, so expect some bugs. </h6>
 <h6 align="left">› This Only supports Synapse X, Becuase I mainly Test/use it in my Synapse X, 
   so if you got Errors, just to Clarify that it might be your Exploit. </h6>
-<h6 align="left">› It Only has Small Features its Currently On, Some Script Require Decent Performance. </h6>
+<h6 align="left">› It Only has Small Features its Currently On, Some Script Require Decent Device Performance. </h6>
 
 
 <h6 align="left">› Our Discord Server Feel Free to Join! </h6>
