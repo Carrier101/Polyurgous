@@ -1,4 +1,4 @@
-<h1 align="left">Welcome to Polyurgous Hub</h1>
+<h1 align="Center">Welcome to Polyurgous Hub</h1>
 <h4 align="left"> A Free Roblox Script Hub Designed for Fun to Our Exploit Community, </h4>
  <h6 align="left">› Co By rou#7971  </h6>
 <h6 align="left">› This Script is Still in BETA Stage, so expect some bugs. </h6>
@@ -6,18 +6,15 @@
   so if you got Errors, just to Clarify that it might be your Exploit. </h6>
 <h6 align="left">› It Only has Small Features its Currently On, Some Script Require Decent Device Performance. </h6>
 
-
 <h6 align="left">› Our Discord Server Feel Free to Join! </h6>
 <p align="left"> <a href="https://discord.gg/fYtW6RAaEM"target="_blank" rel="noreferrer"> <img src="https://i.redd.it/xj5t9wl6fs721.png" alt="python"width="40" height="40"/> </a> </p>
 
 
 
-### Loadstring
+### Hub Loadstring
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous/main/Hub"))();
 ```
-
-
 
 
 ### Supported Games
@@ -255,7 +252,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous
    </details>
 
 
-- [Camping 1-3 (Old)](https://www.roblox.com/games/6875469709/)
+- [Camping 1-3 (beta)](https://www.roblox.com/games/6875469709/)
 
    - <details> <summary>Features</summary>
 
