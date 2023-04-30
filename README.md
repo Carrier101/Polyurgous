@@ -117,6 +117,26 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous
       </details>
  </details>
 
+ - [RakOOF](https://www.roblox.com/games/6053107323/)
+
+   - <details> <summary>Features</summary>
+
+      - <details> <summary>Self Explainatory</summary>
+  
+         - Fly
+         - AntiAC
+         - Bypasser
+         - Visuals(ESP)
+         - Autofarm
+         - Infinite Stamina
+         - Free NightVision
+         - Item & Points Giver
+         - Teleports
+
+  
+      </details>
+   </details>
+ 
  
 - [NaturalDisaster](https://www.roblox.com/games/189707/)
 
@@ -135,26 +155,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Carrier101/Polyurgous
          - Player Kill
          - Give & Bring 
          - AntiEffects
-         - Teleports
-
-  
-      </details>
-   </details>
-
-- [RakOOF](https://www.roblox.com/games/6053107323/)
-
-  - <details> <summary>Features</summary>
-
-      - <details> <summary>Self Explainatory</summary>
-  
-         - Fly
-         - AntiAC
-         - Bypasser
-         - Visuals(ESP)
-         - Autofarm
-         - Infinite Stamina
-         - Free NightVision
-         - Item & Points Giver
          - Teleports
 
   
